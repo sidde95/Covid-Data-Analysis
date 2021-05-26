@@ -1,6 +1,6 @@
 # Covid-Data-Analysis
 
-For the analysis the original dataset which was extracted in excel sheets was divided into two parts:
+For the analysis the original dataset which was extracted in excel sheets and been divided into two parts:
 1. Dataset containing Covid Active Cases, New Cases and Mortality records across various measures.
 2. Dataset containing Covid Vaccination records across various measures.
 
